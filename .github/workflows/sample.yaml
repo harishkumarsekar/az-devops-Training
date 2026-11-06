@@ -11,4 +11,4 @@ jobs:
 
       -name: print multiple line
        run: |
-         printf "weelcome"
+         printf "welcome"
